@@ -1,0 +1,28 @@
+name: Ecuador360
+favicon: null
+layout_spectrum: 0.5046308173332363
+typography_spectrum: 0.13128836685791612
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.14114245329983532
+  lightness: 0.8784197703935206
+  saturation: 0.3708883204963058
+  rhythmicContrast: 0.3374845301732421
+purpose: []
